@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Things that can be done differently
+   1. Graduations ㊗️
+   2. Marriages 💒
+   3. Oscars 🥱
