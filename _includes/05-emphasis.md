@@ -1,3 +1,7 @@
+<details>
+  <summary>
+    Namam
+  </summary>
 *Sai Baba*
 
 _Sai Baba_
@@ -7,3 +11,5 @@ _Sai Baba_
 __Sai Baba **Sai Baba** Sai Baba__
 
 **Sai Baba __Sai Baba__ Sai Baba**
+  
+ </details>
